@@ -2,6 +2,8 @@
 
 namespace core_game {
 
+Poker::Poker() {}
+
 void Poker::playRound() {}
 
 void Poker::startGame() {}

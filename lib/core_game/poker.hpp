@@ -5,6 +5,7 @@ namespace core_game {
 class Poker {
 
 public:
+  Poker();
   void startGame();
   void playRound();
 };
